@@ -24,4 +24,5 @@ To view or edit the quiz locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/Building-a-Quize.git
+
+> git clone https://github.com/your-username/Building-a-Quize.git
